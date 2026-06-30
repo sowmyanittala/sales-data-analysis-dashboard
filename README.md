@@ -1,5 +1,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+
+
 # Sales Data Analysis Dashboard
 
 ##  Overview
@@ -40,7 +47,6 @@ Includes:
 - SQL
 - MySQL
 - Power BI
-- DAX
 - Excel
 
 ---
